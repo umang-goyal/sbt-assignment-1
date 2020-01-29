@@ -1,1 +1,4 @@
-println("Hello! world")
+object Hello extends App {
+              println(“Welcome to sbt”)
+}
+
